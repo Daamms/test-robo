@@ -38,7 +38,7 @@ For each node file, open a terminal and execute the following commands:
    ```
 2. Lanch the simulation:
    ```bash
-   ~/catkin_ws/src/assignment2/exec.sh
+   ~/catkin_ws/src/ir2425_group_03/assignment2/exec.sh
    ```
 
 3. Lanch node_a to get the line coefficent:
